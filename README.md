@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing computer game 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me st49176@gmail.com
 
 <!---
 Tidy1245/Tidy1245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
